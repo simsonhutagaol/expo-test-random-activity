@@ -16,3 +16,7 @@ We wanted to know how do you handle **existing smelly code base**.
 - Clean Code (include code structure)
 - Code best practice
 - User Experience
+
+### How to submit
+
+Please send to the email of the recruiter. Make sure that it can be ran in Expo Go
