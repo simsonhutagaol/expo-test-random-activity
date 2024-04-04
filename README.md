@@ -1,4 +1,4 @@
-# Expo Random Activity Test
+# Expo Test - Random Activity
 
 Try refactor this app to be cleaner by code and design.
 
